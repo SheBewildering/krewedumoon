@@ -1,8 +1,8 @@
 ---
 bg: chewbacchus.jpg
 layout: post
-title:  "Chewbacchus"
-tab_text: "Krewe du Moon Parading at Chewbacchus"
+title:  "Chewbacchus 2017: The Revel Alliance"
+tab_text: "Krewe du Moon Parading in Chewbacchus"
 summary: "We've practiced all year and are now ready to show off our stuff."
 date:   2017-02-18 20:00:00 +0700
 categories: event
