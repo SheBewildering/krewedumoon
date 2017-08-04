@@ -14,6 +14,6 @@ Celebrate Star Wars Day with Krewe Du Moon and the Intergalactic Krewe of Chewba
 On Saturday, May 6, Krewe Du Moon will perform several of our original dances at Chewathon 2017, a 42-hour fundraiser for IKOC.
 Our performance begins at 6:00 p.m. See us dance in person at Castillo Blanco or live-stream online.
 
-For the full schedule of events, visit [IKOC's Facebook event](https://www.facebook.com/events/261632660948046/)
+For the full schedule of events, visit <a href="https://www.facebook.com/events/261632660948046/" target="_blank">IKOC's Facebook event page</a>
 
 MAY THE FOURTH BE WITH YOU!
