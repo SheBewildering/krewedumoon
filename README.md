@@ -58,4 +58,4 @@ tags : ['front-end', 'jekyll']
 
 Don't forget to change `_config.yml`.
 
-foo
+foobar
