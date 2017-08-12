@@ -3,7 +3,7 @@ bg: "chew2017.jpg"
 layout: post
 title:  "Chewbacchus 2018"
 tab_text: "Chewbacchus 2018"
-summary: "Krewe Du Moon dances in Chewbacchus 2018"
+summary: "Krewe Du Moon will dance in Chewbacchus 2018"
 date:   2018-02-03 20:00:00 +0700
 categories: event
 tags: 'event'
