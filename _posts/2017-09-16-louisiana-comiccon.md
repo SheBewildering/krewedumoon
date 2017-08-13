@@ -17,6 +17,6 @@ Check out our group spotlight on LACC's Facebook page:
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLAComicCon%2Fposts%2F1954303511515423&width=500" width="500" height="569" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 
-For more information about Louisiana Comic Con: Lafayette, visit their <a href="https://louisianacomicconlafayette.com/" target="_blank">website</a> or their <a href="https://www.facebook.com/LAComicCon/" target="_blank">Facebook page</a>
+For more information about Louisiana Comic Con: Lafayette, visit their <a href="https://louisianacomicconlafayette.com/" target="_blank">website</a> or their <a href="https://www.facebook.com/LAComicCon/" target="_blank">Facebook page</a>.
 
 Check back soon for more updates!
